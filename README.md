@@ -33,16 +33,14 @@ It provides a modern, responsive UI for seamless chatting.
    cd newlivechat
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Start the dev server:
 
-bash
-Copy code
+
 npm run dev
 Open the app in your browser:
 
-arduino
-Copy code
+
 http://localhost:5173
+
